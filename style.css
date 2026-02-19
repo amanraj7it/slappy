@@ -1,0 +1,156 @@
+    
+      body{
+        background-color: black;
+      }
+      h1{
+        color: white;
+      }
+      h2{
+        color:white;
+      }
+      h6{
+        color: red;
+      
+      }
+      h4{
+        color:aqua
+      }
+      p{
+        color: lightblue;
+        font-size: x-large;
+      }
+      img{
+        width: 20%;
+        height: 10%;
+      }
+      a{
+        text-decoration: none;
+        color: rgba(240, 236, 232, 0.938);
+        text-decoration: none;
+        size-adjust: 100px;
+        font-size: 3em;
+        
+      }
+      button{
+        background-color:rgb(151, 226, 10);
+        color: rgb(218, 10, 45);
+        transition: .5s;
+
+      }
+      hr{
+        border: 1px solid rgba(255, 255, 255, 0.958);
+      }
+
+      #upar{
+        width: 10%;;
+      }
+  h3{
+    color: rgb(242, 245, 245);
+    font-size: xx-small;
+  }
+  div{
+    background-color: rgb(6, 6, 6);
+    border-radius: 30px;
+    padding: 10px;
+    margin: 0px;
+    border: 2px solid white;
+  }
+  #dev{
+    color:#fff8de;
+    position: absolute;
+    right: 60px;
+    top: 10px;
+    width: 70px;
+    height: 20px;
+    border: 3px solid #b7bdf7;
+    border-radius: 50%;
+    padding: 10px;
+    padding-bottom: 50px;
+    padding-top: 20px;
+    padding-right: 40px;
+    background-color: rgb(18, 17, 17);
+    align-items: center;
+    justify-content: center;
+
+  }#Aman{
+    color:white;
+    left:300px;
+    width: 50px;
+    height: 20px;
+    padding: 10px;
+    padding-top:0px;
+    padding-bottom: 50px;
+    padding-left: 150px;
+    display: absolute;
+    margin: 0%;
+  }
+  #hello{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    width: 200px;
+    height: 50px;
+    padding-left: 10px;
+  }
+  #profile-image{
+      border-radius: 20px;
+      margin-top: 20px;
+      width: 30%;
+      height: 40%;
+
+      margin:0px;
+      text-align: center;
+  }
+  #company{
+    text-align: center;
+    margin: 0 auto;
+    color: #b7bdf7;;
+    position:absolute;
+    right: 1080px;
+    font-family: 'comic sans ms', cursive, sans-serif;
+    border:3px solid white;
+    border-radius: 50px;
+  }
+  #p1{
+    color: lightblue;
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  #p2{
+    color:#fff8de;
+    font-size: xx-large;
+    font-family: 'ms serif', 'new york', serif;
+  }
+  #hello-world{
+    color: #fff8de;
+    font-size: xx-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  #hello2{
+    color: #b7bdf7;
+    font-size: x-large;
+    font-family: 'Arial Black', Gadget, sans-serif;
+  }
+  #line{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  #line2{
+    font-family: 'Lucida Console', 'Courier New', monospace;
+  }
+  img{
+    border: 2px solid white;
+    border-radius: 20px;
+  } 
+  #thank{
+    align-items: center;
+    size-adjust: 80px;
+  }
+  #pic1{
+    width: 40%;
+    height: 50%;
+  }
+  #pic2{
+    width: 40%;
+    height: 50%;
+  }
+    
+  
